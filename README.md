@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MyselfVaibhavSagar97
-- 👀 I’m interested in CP
+- 👀 I’m interested in Android Development
 - 🌱 I’m currently learning C++ 
 - 💞️ I’m looking to collaborate after i get strong grip in the language. I'll keep you updated.
 - 📫 You can connect to me on Linkedin https://www.linkedin.com/in/vaibhav-sagar-4936b8244
-
+- Have little bit experience on MVVM, Retrofit, Navigations, Restful APIs, JetPack Compose and kotlin
